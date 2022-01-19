@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: https://petmee.github.io/sitemap.xml
+Sitemap: https://petmee.github.io/hasil.xml
